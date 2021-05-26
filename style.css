@@ -12,7 +12,7 @@
 
 /* GLOBAL START */
 .pageContainer {
-	max-width: 1130px;
+	max-width: 1150px;
 	margin-top: 4%;
 	margin-left: auto;
 	margin-right: auto;
@@ -319,15 +319,15 @@
 }
 
 .featuredProjects .third {
-	/* padding-left: 2.5rem; */
+	padding-left: 2.3rem;
 }
 
 .featuredProjects .first {
-	/* padding-right: 2.5rem; */
+	padding-right: 2.3rem;
 }
 .featuredProjects .second {
-	/* padding-left: 1.5rem; */
-	/* padding-right: 1.5rem; */
+	padding-left: 1.3rem;
+	padding-right: 1.3rem;
 }
 
 @media screen and (max-width: 998px) {
